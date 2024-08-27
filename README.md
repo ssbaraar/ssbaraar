@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreesha Braar</h1>
 <h3 align="center">Hi! I'm SSbaraar, a dedicated software engineer learning and exploring in AI, machine learning, and cloud computing. I thrive on crafting innovative solutions that push the boundaries of technology. If you'd like to connect or learn more about my professional journey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssbaraar" alt="ssbaraar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sreesha_baraar" target="blank"><img src="https://img.shields.io/twitter/follow/sreesha_baraar?logo=twitter&style=for-the-badge" alt="sreesha_baraar" /></a> </p>
 
 - 🔭 I’m currently working on **W3Saas**

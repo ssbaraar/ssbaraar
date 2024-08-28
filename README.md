@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/2c073551-477a-4f02-81a7-8d1c53755ba0](https://drive.google.com/file/d/1hZBkjkU37VrAyaefr_P8Rt-lg6oGRfoO/view?usp=drivesdk)" alt="Sreesha Braar" width="100%">
+  <img src="https://drive.google.com/file/d/1hZBkjkU37VrAyaefr_P8Rt-lg6oGRfoO/view?usp=drivesdk" alt="Sreesha Braar" width="100%">
 </div>
 
 # 👋 Hi, I'm Sreesha Braar

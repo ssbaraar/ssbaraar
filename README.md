@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/cb8dab31-74f2-4d24-af44-baae066ed329)" alt="Sreesha Braar" width="100%">
+  <img src="![Design 2](https://github.com/user-attachments/assets/63154285-784a-43ee-98fd-82affcb940e8)" alt="Sreesha Braar" width="100%">
 </div>
 
 # 👋 Hi, I'm Sreesha Braar

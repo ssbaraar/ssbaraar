@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1hZBkjkU37VrAyaefr_P8Rt-lg6oGRfoO/view?usp=drivesdk" alt="Sreesha Braar" width="100%">
+  <img src="[https://drive.google.com/file/d/1hZBkjkU37VrAyaefr_P8Rt-lg6oGRfoO/view?usp=drivesdk](https://drive.google.com/uc?export=view&id=1hZBkjkU37VrAyaefr_P8Rt-lg6oGRfoO)" alt="Sreesha Braar" width="100%">
 </div>
 
 # 👋 Hi, I'm Sreesha Braar

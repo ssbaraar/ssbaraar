@@ -21,19 +21,19 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B71F3&center=true&vCenter=true&random=false&width=500&lines=AI+Workflow+Architect+🤖;LLM+Systems+Developer+⚡;Full-Stack+AI+Engineer+🚀;Cloud+%26+DevOps+Enthusiast+☁️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B71F3&center=true&vCenter=true&random=false&width=500&lines=Welcome%20to%20My%20Profile" alt="Typing SVG" />
   </a>
 
-  <!-- Social Badges with Hover Effects -->
+  <!-- Social Badges -->
   <p>
     <a href="https://www.linkedin.com/in/ssbaraar/">
-      <img src="https://img.shields.io/badge/-ssbaraar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&hoverColor=0077B5"/>
+      <img src="https://img.shields.io/badge/-ssbaraar-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
     </a>
     <a href="mailto:ssbaraar02@gmail.com">
-      <img src="https://img.shields.io/badge/-ssbaraar02@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&hoverColor=D14836"/>
+      <img src="https://img.shields.io/badge/-ssbaraar02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/ssbaraar">
-      <img src="https://img.shields.io/badge/-ssbaraar-grey?style=for-the-badge&logo=github&hoverColor=181717"/>
+      <img src="https://img.shields.io/badge/-ssbaraar-grey?style=flat-square&logo=github"/>
     </a>
   </p>
 </div>
@@ -51,112 +51,34 @@
 
 ## 🛠️ Technical Arsenal
 
-### Languages & Core Technologies
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
 ### Web Development
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
 
 ### AI & ML Tools
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge&logo=graph&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hubspot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat-square&logo=chainlink&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
 ## 💼 Professional Experience
 
 ### 🔹 Blockchain Laboratories (Aug 2024 - Present)
-<p>
-  <img src="https://img.shields.io/badge/Role-Venture_Intern-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Remote-green?style=flat-square"/>
-</p>
-
-- Developing innovative Agentic Workflows using `LangFlow`, `LangChain`, and `LangGraph`
-- Designing intelligent workflows to enhance organizational efficiency
-- Focusing on `blockchain-based solutions` and `AI applications`
-
-**Skills:** `Agentic AI` `LangChain` `LangFlow` `LangGraph` `Blockchain` `Workflow Optimization`
+![Blockchain Laboratories](https://github.com/ssbaraar/ssbaraar/blob/main/blockchain-logo.svg) [![Role](https://img.shields.io/badge/Role-Venture_Intern-blue?style=flat-square)](https://www.blockchainlabs.com)
+- Developing innovative Agentic Workflows using LangFlow, LangChain, and LangGraph.
+- Focusing on blockchain-based solutions and AI applications.
 
 ### 🔹 Hyderabad Forex Private Limited (Apr 2024 - Aug 2024)
-<p>
-  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
-</p>
-
-- Developed a dynamic landing page and implemented OCR technology using the `MERN stack`
-- Enhanced customer engagement and streamlined data processing
-- Improved accuracy and operational efficiency
-
-**Skills:** `Full-Stack Development` `MERN Stack` `OCR Technology` `React.js` `Node.js` `MongoDB` `Express.js`
-
-### 🔹 Nine Education IIT Academy (Oct 2023 - Aug 2024)
-<p>
-  <img src="https://img.shields.io/badge/Role-UI_Designer_&_Full_Stack_Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
-</p>
-
-- Implemented a comprehensive student data and fee management system using `React`, `Flask`, and `MongoDB`
-- Enhanced user experience and security across various roles
-- Automated administrative tasks and improved operational efficiency
-
-**Skills:** `UI Design` `Full-Stack Development` `React` `Flask` `MongoDB` `Python` `Database Management` `User Authentication`
+![Hyderabad Forex](https://github.com/ssbaraar/ssbaraar/blob/main/hyderabad-forex-logo.svg) [![Role](https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square)](https://www.hyderabadforex.com)
+- Developed a dynamic landing page and implemented OCR technology using the MERN stack.
+- Enhanced customer engagement and streamlined data processing.
 
 ## 🎓 Academic Projects
 
 ### Event Management System
-**Associated with JSS SCIENCE AND TECHNOLOGY UNIVERSITY**
-- Developed a web-based application using `HTML`, `CSS`, `PHP`, and `MySQL`
-- Features include event creation, registration, dynamic dashboard, and user authentication
-- Empowers college community to organize and participate in events seamlessly
-
-[GitHub Repository](https://github.com/ssbaraar/Event-Management-System)
-
-### Search Analysis (Using AWS Kendra Service)
-- Leveraged AWS Kendra's AI-powered search service for advanced search capabilities
-- Implemented natural language processing to understand user queries
-- Provided relevant results from various data sources
-
-### CanineCare: AI Vet for Dog Breeds
-- Explored innovative ways to improve dog care using computer vision and machine learning
-- Focused on dog breed classification and disease detection
-- Implemented advanced AI techniques for pet care
-
-[GitHub Repository](https://github.com/ssbaraar/CanineCare-AI-Vet-for-Dog-Breeds)
-
-### CrewConnect: A Collaborative IDE
-- Developed a web application to connect people with similar interests
-- Implemented features for user profile creation and search functionality
-- Created a collaborative environment for coding and project development
-
-[GitHub Repository](https://github.com/ssbaraar/CrewConnect-A-Collaborative-IDE)
+![Event Management System](https://github.com/ssbaraar/Event-Management-System/blob/main/icon.png) [![GitHub stars](https://img.shields.io/github/stars/ssbaraar/Event-Management-System?style=flat-square)](https://github.com/ssbaraar/Event-Management-System) [![GitHub forks](https://img.shields.io/github/forks/ssbaraar/Event-Management-System?style=flat-square)](https://github.com/ssbaraar/Event-Management-System)
+- Developed a web-based application using HTML, CSS, PHP, and MySQL.
+- Features include event creation, registration, dynamic dashboard, and user authentication.
+- [Live Demo](https://example.com/event-management)
 
 ## 📈 GitHub Stats
 
@@ -166,30 +88,26 @@
 </div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ssbaraar&theme=react-dark&hide_border=true"/>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ssbaraar&theme=github-dark&hide_border=true"/>
 </a>
 
 ## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ssbaraar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ssbaraar02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ssbaraar">
-    <img src="https://img.shields.io/badge/GitHub-Follow-green?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-green?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </div>
 
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssbaraar&style=for-the-badge&color=3B71F3"/>
 </div>
 
 <div align="center">

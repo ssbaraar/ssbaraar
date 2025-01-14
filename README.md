@@ -1,55 +1,128 @@
+<!-- Custom Matrix Style Header -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/63154285-784a-43ee-98fd-82affcb940e8" alt="Sreesha Braar" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sreesha%20Braar&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20GenAI%20Researcher%20|%20Full-Stack%20Developer&descAlignY=60" width="100%"/>
 </div>
 
-# 👋 Hi, I'm Sreesha Braar
+<!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+Agentic+Workflows;Full-Stack+Developer;UI%2FUX+Designer;Cloud+Enthusiast;Aspiring+to+Learn+%26+Grow" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <h1>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png" width="40" alt="Robot"/>
+    Sreesha Braar
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png" width="40" alt="Laptop"/>
+  </h1>
 
-I'm a dedicated software engineer specializing in AI, machine learning, and cloud computing. I thrive on crafting innovative solutions that push the boundaries of technology. Recently graduated from JSS Science and Technology University, I'm passionate about building artificially intelligent agents and exploring cloud technologies.
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B71F3&center=true&vCenter=true&random=false&width=500&lines=AI+Workflow+Architect+🤖;LLM+Systems+Developer+⚡;Full-Stack+AI+Engineer+🚀;Cloud+%26+DevOps+Enthusiast+☁️" alt="Typing SVG" />
+  </a>
 
-- 🔭 I'm currently working on **W3Saas** and building Agentic Workflows at Blockchain Laboratories
-- 🌱 I'm learning advanced cloud technologies, DevOps, and AI applications
-- 👯 I'm looking to collaborate on innovative projects in full-stack development and AI
-- 🎯 2024 Goals: Contribute more to Open Source projects and expand my professional network
-- 🤝 I'm actively seeking opportunities to apply my skills in creative and impactful ways
+  <!-- Social Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/ssbaraar/">
+      <img src="https://img.shields.io/badge/-ssbaraar-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:ssbaraar02@gmail.com">
+      <img src="https://img.shields.io/badge/-ssbaraar02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/ssbaraar">
+      <img src="https://img.shields.io/badge/-ssbaraar-grey?style=flat-square&logo=github"/>
+    </a>
+  </p>
+</div>
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/thuanpham2311/thuanpham2311/master/assets/programming.gif"/>
+
+- 🎓 **Education**: Recently graduated from JSS Science and Technology University
+- 🌟 **Current Role**: AI Workflow Developer at Blockchain Laboratories
+- 💼 **Experience**: Full-Stack Developer with expertise in MERN Stack & AI Technologies
+- 🚀 **Focus**: Building AI-driven SaaS solutions and Web3 innovations
+- 🎯 **Expertise**: AI/ML, Full-Stack Development, System Optimization
+- 📚 **Key Subjects**: OOP, Advanced Java, Python, Data Science, Web Dev, Big Data Analysis
+
+## 🛠️ Technical Arsenal
+
+### Languages & Core Technologies
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+### AI & ML Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge&logo=graph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hubspot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
 </p>
 
 ## 💼 Professional Experience
 
-### Venture Intern at Blockchain Laboratories
-*Aug 2024 - Present | Remote*
+### 🔹 Blockchain Laboratories (Aug 2024 - Present)
+<p>
+  <img src="https://img.shields.io/badge/Role-Venture_Intern-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Remote-green?style=flat-square"/>
+</p>
+
 - Developing innovative Agentic Workflows using `LangFlow`, `LangChain`, and `LangGraph`
 - Designing intelligent workflows to enhance organizational efficiency
 - Focusing on `blockchain-based solutions` and `AI applications`
 
 **Skills:** `Agentic AI` `LangChain` `LangFlow` `LangGraph` `Blockchain` `Workflow Optimization`
 
-### Full Stack Developer at Hyderabad Forex Limited
-*Apr 2024 - Aug 2024 | Hyderabad, India*
+### 🔹 Hyderabad Forex Private Limited (Apr 2024 - Aug 2024)
+<p>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
+</p>
+
 - Developed a dynamic landing page and implemented OCR technology using the `MERN stack`
 - Enhanced customer engagement and streamlined data processing
 - Improved accuracy and operational efficiency
 
 **Skills:** `Full-Stack Development` `MERN Stack` `OCR Technology` `React.js` `Node.js` `MongoDB` `Express.js`
 
-### UI Designer & Full Stack Developer at Nine Education IIT Academy
-*Oct 2023 - Aug 2024 | Hyderabad, India*
+### 🔹 Nine Education IIT Academy (Oct 2023 - Aug 2024)
+<p>
+  <img src="https://img.shields.io/badge/Role-UI_Designer_&_Full_Stack_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
+</p>
+
 - Implemented a comprehensive student data and fee management system using `React`, `Flask`, and `MongoDB`
 - Enhanced user experience and security across various roles
 - Automated administrative tasks and improved operational efficiency
@@ -85,47 +158,36 @@ I'm a dedicated software engineer specializing in AI, machine learning, and clou
 
 [GitHub Repository](https://github.com/ssbaraar/CrewConnect-A-Collaborative-IDE)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ssbaraar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssbaraar&theme=nord_dark" alt="GitHub Profile Summary" width="100%">
-</p>
-
-## 🎨 Interests & Hobbies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20Technologies-Enthusiast-blue?style=for-the-badge&logo=icloud" alt="Cloud Technologies" />
-  <img src="https://img.shields.io/badge/AI%20Applications-Innovator-green?style=for-the-badge&logo=artificial-intelligence" alt="AI Applications" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-Tech%20Explorer-red?style=for-the-badge&logo=google-scholar" alt="Continuous Learning" />
-  <img src="https://img.shields.io/badge/Sports-Cricket%20%7C%20Football-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR4nGNgwANuCJr+B+GbQmb/MdQRUvxQ0AJsyf///5kIGgJT/EzQBmwJNkNwGvJMwBqn5idCNjgNeSFgidOQl4KWOA15LWiD05A3grY4DXknaIPTkPeCNjgN+SBog9OQj4I2OA35JGiD05DPgjY4DfkiaIPTkK+CNjgN+SZog9OQ74I2OA35IWiD05CfgjY4DfklaIPTkN+CNjgN+SNog9OQv4I2OA35J2iD05D/gjY4DSFoCFbFuBTjVIxPMS7FWBVjVYxNMYZirIqxKsamGEMxVsXYFGNTjKEYq2JsirEpxlCMVTE2xdgUYyjGqhibYmyKMRRjVYxNMTbFGIqxKsamGEMxAJFSyg1/XBMPAAAAAElFTkSuQmCC" alt="Sports" />
-  <img src="https://img.shields.io/badge/TV%20Shows-Vikings%20%7C%20Rick%20and%20Morty-blue?style=for-the-badge&logo=tv-time" alt="TV Shows" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge&logo=open-source-initiative" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-Tech%20Enthusiast-red?style=for-the-badge&logo=google-scholar" alt="Continuous Learning" />
-</p>
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ssbaraar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ssbaraar02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/sreesha_baraar">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
----
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssbaraar&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssbaraar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssbaraar&theme=tokyonight&hide_border=true&background=0D1117" width="400"/>
+</div>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ssbaraar&theme=react-dark&hide_border=true"/>
+</a>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ssbaraar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ssbaraar02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ssbaraar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-green?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect+and+innovate+together!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=ssbaraar&style=for-the-badge&color=3B71F3"/>
 </div>

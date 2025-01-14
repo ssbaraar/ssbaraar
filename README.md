@@ -1,6 +1,6 @@
 <!-- Custom Matrix Style Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sreesha%20Braar&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20GenAI%20Researcher%20|%20Full-Stack%20Developer&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200§ion=header&text=Sreesha%20Braar&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20GenAI%20Researcher%20|%20Full-Stack%20Developer&descAlignY=60" width="100%"/>
 </div>
 
 <!-- Contribution Snake Animation -->
@@ -15,28 +15,41 @@
 <div align="center">
   <h1>
     <img src="https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png" width="40" alt="Robot"/>
-    Sreesha Braar
+    <span style="font-weight: bold; color: #3B71F3;">Sreesha Braar</span>
     <img src="https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png" width="40" alt="Laptop"/>
   </h1>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B71F3&center=true&vCenter=true&random=false&width=500&lines=AI+Workflow+Architect+🤖;LLM+Systems+Developer+⚡;Full-Stack+AI+Engineer+🚀;Cloud+%26+DevOps+Enthusiast+☁️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B71F3¢er=true&vCenter=true&random=false&width=500&lines=AI+Workflow+Architect+🤖;LLM+Systems+Developer+⚡;Full-Stack+AI+Engineer+🚀;Cloud+%26+DevOps+Enthusiast+☁️" alt="Typing SVG" />
   </a>
 
-  <!-- Social Badges -->
+  <!-- Social Badges with Subtle Hover Effects -->
   <p>
-    <a href="https://www.linkedin.com/in/ssbaraar/">
-      <img src="https://img.shields.io/badge/-ssbaraar-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:ssbaraar02@gmail.com">
-      <img src="https://img.shields.io/badge/-ssbaraar02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
-    <a href="https://github.com/ssbaraar">
-      <img src="https://img.shields.io/badge/-ssbaraar-grey?style=flat-square&logo=github"/>
+      <a href="https://www.linkedin.com/in/ssbaraar/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-ssbaraar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" onmouseover="this.src='https://img.shields.io/badge/-ssbaraar-brightgreen?style=flat-square&logo=Linkedin&logoColor=white';" onmouseout="this.src='https://img.shields.io/badge/-ssbaraar-blue?style=flat-square&logo=Linkedin&logoColor=white';"/>
+      </a>
+      <a href="mailto:ssbaraar02@gmail.com" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/-ssbaraar02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" onmouseover="this.src='https://img.shields.io/badge/-ssbaraar02@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white';" onmouseout="this.src='https://img.shields.io/badge/-ssbaraar02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white';"/>
+      </a>
+      <a href="https://github.com/ssbaraar" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-ssbaraar-grey?style=flat-square&logo=github" alt="GitHub" onmouseover="this.src='https://img.shields.io/badge/-ssbaraar-black?style=flat-square&logo=github';" onmouseout="this.src='https://img.shields.io/badge/-ssbaraar-grey?style=flat-square&logo=github';"/>
     </a>
   </p>
+
+  <!-- Animated Text Separator -->
+  <hr style="border: none; height: 2px; background: linear-gradient(to right, #3B71F3, #00FFFF); margin: 20px 0; animation: separatorAnim 3s linear infinite;" />
+
 </div>
+
+<style>
+    @keyframes separatorAnim {
+        0% { background-position: 0 0; }
+        100% { background-position: 200px 0; }
+    }
+</style>
+
+
 
 ## 👨‍💻 About Me
 
@@ -185,7 +198,7 @@
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" width="100%"/>
 </div>
 
 <div align="center">

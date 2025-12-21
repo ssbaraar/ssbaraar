@@ -1,6 +1,6 @@
 <!-- Custom Matrix Style Header -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sreesha%20Braar&fontSize=48&fontAlignY=35&desc=Generative%20AI%20Engineer%20|%20Agentic%20AI%20%26%20RAG%20Systems&descAlignY=60" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sreesha%20Braar&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20GenAI%20Researcher%20|%20Full-Stack%20Developer&descAlignY=60" width="100%"/>
 </div>
 
 <!-- Contribution Snake Animation -->

@@ -1,29 +1,23 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  GitHub Profile README — ssbaraar                                    ║
-║  Portfolio Positioning:                                               ║
-║  Applied AI Engineer | GTM AI | RevOps Automation | GenAI Agents     ║
-║                                                                       ║
-║  This README is structured as a recruiter / AI-search landing page:  ║
-║  → Clear role identity                                                ║
-║  → Answer-style sections                                              ║
-║  → Keyword-rich headings                                              ║
-║  → Proof blocks with quantified impact                                ║
-║  → GEO-optimized: entity-rich, topically relevant, concise           ║
+║  Portfolio Positioning: Applied AI Engineer | GTM AI | GenAI Agents  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ HERO HEADER ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Baraar%20Sreesha%20Sreenivas&fontSize=44&fontAlignY=32&animation=twinkling&desc=Applied%20AI%20Engineer%20%E2%80%A2%20GTM%20AI%20%E2%80%A2%20RevOps%20Automation%20%E2%80%A2%20GenAI%20Agents&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Baraar%20Sreesha%20Sreenivas&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Applied%20AI%20Engineer%20%E2%80%A2%20GTM%20AI%20%E2%80%A2%20GenAI%20Agents%20%E2%80%A2%20RevOps%20Automation&descAlignY=60&descSize=20&descColor=A5B4FC" width="100%" />
 </div>
 
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=800&color=3B71F3&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=80&lines=I+build+AI+systems+that+work+in+production%2C+not+just+in+demos.;GTM+AI+%E2%80%A2+RevOps+Automation+%E2%80%A2+GenAI+Agents+%E2%80%A2+RAG+Systems" alt="Typing SVG — Applied AI Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=800&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=960&height=90&lines=I+build+AI+systems+that+work+in+production%2C+not+just+in+demos.;GTM+AI+%E2%80%A2+RevOps+Automation+%E2%80%A2+GenAI+Agents+%E2%80%A2+RAG+Systems" alt="Typing SVG — Applied AI Engineer" />
   </a>
 </div>
+
+<br />
 
 <!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
 <div align="center">
@@ -36,11 +30,8 @@
   <a href="https://github.com/ssbaraar">
     <img src="https://img.shields.io/badge/GitHub-ssbaraar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=ssbaraar&style=for-the-badge&color=3B71F3&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=ssbaraar&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
@@ -50,7 +41,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -58,122 +49,64 @@
 
 ---
 
-<!-- ═══════════════════════ QUICK SNAPSHOT ═══════════════════════ -->
+<!-- ═══════════════════════ VALUE PROP SECTION ═══════════════════════ -->
 
 <div align="center">
 
-### ⚡ Quick Snapshot
+## ✦ Who I Am
+
+<img src="https://img.shields.io/badge/Applied%20AI%20Engineer-Building%20for%20GTM%2C%20RevOps%20%26%20Enterprise-6366F1?style=for-the-badge" />
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🎯 What I Do**
-> I build **production-grade GenAI systems** that connect GTM, RevOps, marketing, and engineering teams — from lead intelligence pipelines to AI-powered CRM workflows.
-
-</td>
-<td width="50%" valign="top">
-
-**🧭 My Edge**
-> I sit between **business teams and technical teams** — I understand what GTM and RevOps teams need, and I build the AI system end-to-end.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📍 Current Role**
-> **Senior Software Engineer** at Motiveminds Consulting — building enterprise GenAI and agentic workflow systems.
-
-</td>
-<td width="50%" valign="top">
-
-**🔑 Core Stack**
-> Python · FastAPI · LangChain · LangGraph · RAG · Clay · HubSpot · n8n · Docker · LLM APIs
-
-</td>
-</tr>
-</table>
-
 <br />
 
----
-
-<!-- ═══════════════════════ WHO I AM ═══════════════════════ -->
-
-## 🧬 Who I Am
-
-I am an **Applied AI Engineer** focused on building AI-powered systems for **GTM (Go-To-Market), RevOps, sales intelligence, lead enrichment, enterprise workflows, and internal automation**.
-
-My strongest lane is sitting between **business teams and technical teams**.
-
-<table>
+<table align="center" width="90%">
 <tr>
-<td width="50%">
+<td align="center" width="25%" style="padding: 20px;">
+<br />
+<img src="https://img.shields.io/badge/🎯-111827?style=flat-square&logoWidth=40" /><br /><br />
 
-**What GTM & RevOps teams need:**
-- Better lead data
-- Faster prospect research
-- Cleaner CRM workflows
-- Reliable automations
-- Intelligence that helps them act faster
+**GTM AI Systems**
+
+AI-powered lead intelligence, enrichment & CRM workflows
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
+<br />
+<img src="https://img.shields.io/badge/⚙️-1F2937?style=flat-square" /><br /><br />
 
-**What engineering teams need:**
-- Clean requirements
-- Scalable architecture
-- APIs and data pipelines
-- Production reliability
-- Maintainable systems
+**RevOps Automation**
+
+Scalable sales & marketing operations infrastructure
+
+</td>
+<td align="center" width="25%">
+<br />
+<img src="https://img.shields.io/badge/🤖-111827?style=flat-square" /><br /><br />
+
+**GenAI Agents**
+
+Multi-agent systems that reason, plan & execute
+
+</td>
+<td align="center" width="25%">
+<br />
+<img src="https://img.shields.io/badge/📚-1F2937?style=flat-square" /><br /><br />
+
+**RAG Systems**
+
+Enterprise knowledge retrieval & document intelligence
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### I bridge that gap.
-
-</div>
-
-I translate messy business workflows into technical systems using:
-
-<div align="center">
-
-`GenAI Agents` · `RAG Systems` · `Python + FastAPI APIs` · `Clay` · `HubSpot` · `n8n / Make / Zapier` · `Web Scraping & Lead Enrichment` · `Vector Databases` · `Dockerized Production Workflows`
-
-</div>
-
-> **My goal is simple:**  Build AI systems that do not just demo well, but actually work in production for GTM, RevOps, marketing, and enterprise teams.
-
 <br />
 
----
-
-<!-- ═══════════════════════ POSITIONING ═══════════════════════ -->
-
-## 🎯 My Positioning
-
-### Applied AI Engineer for GTM, RevOps, and Enterprise Automation
-
-I build systems that help teams:
-
 <div align="center">
 
-| Capability | Description |
-|:---:|:---|
-| 🔍 | **Source leads** from public and internal data sources |
-| 📊 | **Enrich** company and contact records with AI-powered workflows |
-| ✅ | **Score & qualify** prospects using custom logic and LLMs |
-| 🔄 | **Sync structured data** into HubSpot or CRM systems |
-| ⚙️ | **Automate** repetitive RevOps and marketing workflows |
-| 📚 | **Build RAG assistants** for internal knowledge retrieval |
-| 🤖 | **Deploy AI agents** that use tools, APIs, and business logic |
-| 🚀 | **Convert manual workflows** into production-grade automation |
+> 💡 **My edge:** I sit between business teams and technical teams — I understand what GTM & RevOps need, and I build the AI system **end-to-end**.
 
 </div>
 
@@ -181,21 +114,24 @@ I build systems that help teams:
 
 ---
 
-<!-- ═══════════════════════ BEST-FIT ROLES ═══════════════════════ -->
-
-## 💼 Best-Fit Roles
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 <div align="center">
 
-| Role | Why It Fits |
-|:---|:---|
-| **Applied AI Engineer** | I build practical GenAI systems — RAG apps, agents, APIs, and workflow automations. |
-| **GTM AI Engineer** | I build AI-powered lead intelligence, enrichment, prospecting, and CRM workflows. |
-| **Forward Deployed AI Engineer** | I work across business requirements, technical implementation, integration, and deployment. |
-| **AI Automation Engineer** | I build production automations using Python, FastAPI, n8n, Clay, HubSpot, and LLM APIs. |
-| **RevOps Automation Engineer** | I automate GTM workflows — CRM enrichment, routing, qualification, and operations. |
-| **AI Solutions Engineer** | I understand business workflows and translate them into deployable AI systems. |
-| **Growth Engineer — AI Automation** | I combine scraping, enrichment, AI workflows, and GTM systems to support growth teams. |
+## 📈 GitHub Activity
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ssbaraar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" width="420" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssbaraar&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" width="420" alt="GitHub Streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssbaraar&theme=react-dark&hide_border=true&bg_color=0D1117&color=818CF8&line=6366F1&point=FFFFFF" width="95%" alt="GitHub Activity Graph" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaraar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" width="320" alt="Top Languages" />
 
 </div>
 
@@ -205,274 +141,323 @@ I build systems that help teams:
 
 <!-- ═══════════════════════ WHAT I BUILD ═══════════════════════ -->
 
+<div align="center">
+
 ## 🏗️ What I Build
 
-<!-- ··· GTM AI SYSTEMS ··· -->
-<details open>
-<summary><h3>1️⃣ GTM AI Systems — AI-powered workflows for revenue teams</h3></summary>
+</div>
 
 <br />
 
-| What I Build | Example |
-|:---|:---|
-| Lead Sourcing Pipelines | Google Maps scraping, website scraping, public data extraction |
-| Enrichment Workflows | Clay enrichment, Apollo/ZoomInfo-style flows, Google Search enrichment |
-| CRM Integration | HubSpot sync, lead scoring, qualification logic |
-| AI SDR Support | Prospect research agents, outbound preparation workflows |
+<div align="center">
 
-**Core Tools:**
+<!-- Row 1 -->
+<table width="90%">
+<tr>
+<td width="50%" valign="top">
+
+### 1️⃣ GTM AI Systems
+> Lead intelligence workflows for revenue teams
+
+```
+📥 Google Maps
+   ↓
+🕷️  Custom Scrapers
+   ↓
+🔍 Search Enrichment
+   ↓
+🧱 Clay Workflows
+   ↓
+🚀 HubSpot CRM
+```
+
 <p>
   <img src="https://img.shields.io/badge/Clay-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_APIs-4B5563?style=flat-square" />
 </p>
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<!-- ··· REVOPS AUTOMATION ··· -->
-<details>
-<summary><h3>2️⃣ RevOps Automation Systems — Infrastructure for sales, marketing, and revenue ops</h3></summary>
+### 2️⃣ GenAI Agents
+> Agentic systems that reason and execute
 
-<br />
+```
+🧠 LLM Planning Loop
+   ↓
+🔧 Tool Calling
+   ↓
+🔄 Multi-Agent Orchestration
+   ↓
+✅ Self-Correcting Execution
+   ↓
+📊 Structured Output
+```
 
-| What I Build | Example |
-|:---|:---|
-| CRM Automation | Data enrichment, lead routing, lifecycle automation |
-| Data Operations | Duplicate handling, data cleanup, cross-tool sync |
-| Team Alerts | Slack/email notifications for GTM events |
-| Scoring Systems | Qualification and scoring workflows |
-
-**Core Tools:**
-<p>
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square" />
-</p>
-
-</details>
-
-<!-- ··· GENAI AGENTS ··· -->
-<details>
-<summary><h3>3️⃣ GenAI Agents & Multi-Agent Workflows — Agentic systems that reason and execute</h3></summary>
-
-<br />
-
-| What I Build | Example |
-|:---|:---|
-| Tool-Calling Agents | Research agents, lead enrichment agents, document intelligence agents |
-| Multi-Agent Systems | Orchestration, planning/execution loops, self-correcting workflows |
-| API-Connected Agents | Agents that integrate with business tools and APIs |
-
-**Core Tools:**
 <p>
   <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square" />
   <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=flat-square" />
   <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square" />
   <img src="https://img.shields.io/badge/AutoGen-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
 </p>
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ··· RAG SYSTEMS ··· -->
-<details>
-<summary><h3>4️⃣ RAG & Enterprise Knowledge Systems — Retrieval-Augmented Generation</h3></summary>
+### 3️⃣ RAG & Knowledge Systems
+> Retrieval-Augmented Generation for enterprise
 
-<br />
+```
+📄 Document Ingestion
+   ↓
+🔢 Chunking & Embedding
+   ↓
+🗄️  Vector Store (FAISS/Qdrant)
+   ↓
+🔍 Hybrid BM25 + Vector Search
+   ↓
+💬 Citation-Grounded Response
+```
 
-| What I Build | Example |
-|:---|:---|
-| Document Chat | Multi-document chat, PDF RAG, enterprise knowledge assistants |
-| Hybrid Retrieval | BM25 + vector search, metadata-filtered retrieval |
-| Knowledge Copilots | Citation-grounded responses, document summarization, internal search |
-
-**Core Tools:**
 <p>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/AstraDB-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<!-- ··· PRODUCTION APIs ··· -->
-<details>
-<summary><h3>5️⃣ Production GenAI APIs — Backend services for real systems</h3></summary>
+### 4️⃣ Production GenAI APIs
+> Backend services for real AI systems
 
-<br />
+```
+🧪 FastAPI Service
+   ↓
+🔒 Secure Auth & Rate Limits
+   ↓
+🐳 Docker Container
+   ↓
+☁️  Cloud Deployment (GCP)
+   ↓
+📡 Webhook / CRM Integration
+```
 
-| What I Build | Example |
-|:---|:---|
-| LLM Services | FastAPI-based LLM APIs, structured JSON outputs, streaming responses |
-| Integrations | CRM/tool API integrations, webhook-driven workflows |
-| Deployment | Dockerized production systems, secure API access |
-
-**Core Tools:**
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
-</details>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br />
 
 ---
 
-<!-- ═══════════════════════ SELECTED WORK & IMPACT ═══════════════════════ -->
+<!-- ═══════════════════════ TECHNICAL STACK ═══════════════════════ -->
 
-## 🏆 Selected Work & Impact
+<div align="center">
 
-<!-- ··· PROJECT 1 ··· -->
-<details open>
-<summary><b>🔷 GTM Lead Intelligence & HubSpot Automation System</b></summary>
+## 🛠️ Technical Stack
 
 <br />
 
-> Built a **cost-optimized lead intelligence workflow** for a U.S.-based client that sourced, enriched, and qualified leads end-to-end.
+**AI Frameworks**
+
+<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangFlow-1F6FEB?style=for-the-badge" />
+
+<br /><br />
+
+**LLM Providers**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+
+<br /><br />
+
+**Backend & APIs**
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<br /><br />
+
+**Vector Databases**
+
+<img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AstraDB-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<br /><br />
+
+**GTM & RevOps Tools**
+
+<img src="https://img.shields.io/badge/Clay-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+
+</div>
+
+<br />
+
+---
+
+<!-- ═══════════════════════ IMPACT NUMBERS ═══════════════════════ -->
+
+<div align="center">
+
+## 🏆 Measured Impact
+
+<br />
+
+<table width="80%">
+<tr>
+<td align="center" width="33%">
+<br />
+
+## ↓ 40%
+**Manual Data Entry Reduced**
+<br />
+*OCR & Document Automation*
+
+</td>
+<td align="center" width="33%">
+<br />
+
+## ↓ 30%
+**Onboarding Turnaround Time**
+<br />
+*Financial Workflow Automation*
+
+</td>
+<td align="center" width="33%">
+<br />
+
+## 5+
+**Production AI Systems Shipped**
+<br />
+*GTM, RevOps & Enterprise*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+---
+
+<!-- ═══════════════════════ SELECTED PROJECTS ═══════════════════════ -->
+
+<div align="center">
+
+## 🔷 Selected Projects
+
+</div>
+
+<br />
+
+<details open>
+<summary><b>&nbsp;📌 GTM Lead Intelligence & HubSpot Automation System</b></summary>
+<br />
+
+> Built a cost-optimized lead intelligence workflow for a U.S.-based client — sourcing, enriching, and qualifying leads end-to-end.
 
 ```
-📥 Google Maps → 🕷️ Custom Scrapers → 🔍 Google Search Enrichment → 🧱 Clay → 📊 Apollo/ZoomInfo-style Enrichment → 🚀 HubSpot
+📥 Google Maps → 🕷️ Custom Scrapers → 🔍 Search Enrichment → 🧱 Clay → 📊 Apollo-style Enrichment → 🚀 HubSpot
 ```
-
-**What I handled:**
-- Lead sourcing from Google Maps with custom scraping
-- Clay enrichment workflow design
-- Apollo / ZoomInfo-style enrichment logic
-- Google Search-based data enrichment
-- HubSpot CRM integration and sync
-- Cost optimization through custom scraper-based data collection (vs. expensive API-only approaches)
-- Structured lead output for prospecting teams
 
 <p>
   <img src="https://img.shields.io/badge/GTM_Automation-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lead_Enrichment-1F2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
   <img src="https://img.shields.io/badge/Clay-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web_Scraping-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
 </details>
 
-<!-- ··· PROJECT 2 ··· -->
-<details>
-<summary><b>🔷 AI-Powered Pitch Deck & Email Automation</b></summary>
-
 <br />
 
-> Built an AI workflow that creates **investor-ready pitch decks** and **personalized follow-up emails** from a simple form input.
+<details>
+<summary><b>&nbsp;📌 AI-Powered Pitch Deck & Email Automation</b></summary>
+<br />
+
+> AI workflow that creates investor-ready pitch decks and personalized follow-up emails from a simple form input.
 
 ```
-📝 Form Input → 🧠 Gemini / LLM Content Generation → 📊 Google Slides API → ✉️ Gmail Approval → 🚀 Prospect Delivery
+📝 Form Input → 🧠 Gemini → 📊 Google Slides API → ✉️ Gmail Approval → 🚀 Delivery
 ```
-
-**Features:**
-- Proposal content generation using LLMs
-- Automated Google Slides deck creation
-- Personalized email generation
-- Human-in-the-loop approval workflow
-- Secure Google Drive sharing
-- End-to-end delivery in minutes
 
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_APIs-4B5563?style=flat-square" />
   <img src="https://img.shields.io/badge/Google_Slides_API-FBBC04?style=flat-square&logo=google&logoColor=black" />
   <img src="https://img.shields.io/badge/Gmail_Automation-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sales_Automation-111827?style=flat-square" />
 </p>
 
 </details>
 
-<!-- ··· PROJECT 3 ··· -->
-<details>
-<summary><b>🔷 Advanced PDF RAG Systems</b></summary>
-
 <br />
 
-> Built **multi-PDF chat and summarization workflows** using LangChain, LlamaIndex, LangFlow, and multiple vector database backends.
+<details>
+<summary><b>&nbsp;📌 Advanced PDF RAG Systems</b></summary>
+<br />
 
-**Capabilities:**
-- Multi-document chat with citation-grounded responses
-- Hybrid retrieval: BM25 + vector search
-- Metadata-filtered retrieval pipelines
-- Google Drive integration for enterprise document access
-- Large document processing with multi-threaded architecture
-- Multiple vector store backends (FAISS, AstraDB, MongoDB Atlas)
+> Multi-PDF chat and summarization with hybrid retrieval, citation grounding, and multiple vector database backends.
+
+```
+📄 PDFs → 🔢 Embedding → 🗄️ Vector DB → 🔍 BM25 + Vector → 💬 Citation Response
+```
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-374151?style=flat-square" />
   <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square" />
   <img src="https://img.shields.io/badge/AstraDB-1F6FEB?style=flat-square" />
   <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/BM25-6B7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=google&logoColor=white" />
 </p>
 
 </details>
 
-<!-- ··· PROJECT 4 ··· -->
-<details>
-<summary><b>🔷 Self-Hosted n8n on Google Cloud</b></summary>
-
 <br />
 
-> Built and documented a **production-grade self-hosted n8n setup** using Docker and GCP infrastructure.
-
-**What it covers:**
-- n8n self-hosting with Docker Compose
-- PostgreSQL database backend
-- DNS and SSL configuration for secure access
-- Agentic workflow deployment patterns
-- Automation infrastructure for GTM and RevOps workflows
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-</details>
-
-<!-- ··· PROJECT 5 ··· -->
 <details>
-<summary><b>🔷 OCR & Financial Document Automation</b></summary>
-
+<summary><b>&nbsp;📌 OCR & Financial Document Automation</b></summary>
 <br />
 
-> Built OCR-driven automation for financial document processing — with **measurable impact**.
+> OCR-driven automation for financial document processing — **40% less manual entry, 30% faster onboarding**.
 
-**Impact:**
-
-| Metric | Result |
-|:---|:---|
-| Manual Data Entry Reduction | **↓ 40%** |
-| Onboarding Turnaround Time | **↓ 30%** |
-
-**What I built:**
-- OCR and computer vision pipelines for document digitization
-- FastAPI-based REST APIs for transaction and customer data
-- Workflow modernization in a regulated financial environment
+```
+📃 Documents → 👁️ OCR + Vision → 🔢 Data Extraction → ⚡ FastAPI → 🏦 Financial System
+```
 
 <p>
   <img src="https://img.shields.io/badge/OCR-111827?style=flat-square" />
@@ -487,236 +472,82 @@ I build systems that help teams:
 
 ---
 
-<!-- ═══════════════════════ TECHNICAL STACK ═══════════════════════ -->
-
-## 🛠️ Technical Stack
+<!-- ═══════════════════════ EXPERIENCE TIMELINE ═══════════════════════ -->
 
 <div align="center">
 
-### AI Engineering
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool_Calling-6B7280?style=for-the-badge" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Document_AI-9CA3AF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Structured_Outputs-D1D5DB?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streaming_APIs-E5E7EB?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-F3F4F6?style=for-the-badge&logoColor=black" />
-</p>
-
----
-
-### AI Frameworks
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangFlow-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge" />
-</p>
-
----
-
-### Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-374151?style=for-the-badge" />
-</p>
-
----
-
-### LLM Providers
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-</p>
-
----
-
-### Vector Search & Data
-<p>
-  <img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AstraDB-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas_Vector-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/BM25-6B7280?style=for-the-badge" />
-</p>
-
----
-
-### GTM, RevOps & Automation
-<p>
-  <img src="https://img.shields.io/badge/Clay-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-</p>
+## 📋 Experience
 
 </div>
 
 <br />
 
----
+<div align="center">
+<table width="90%">
+<tr>
+<td width="15%" align="center"><b>2025 – Now</b></td>
+<td width="5%">🟢</td>
+<td>
 
-<!-- ═══════════════════════ PROFESSIONAL EXPERIENCE ═══════════════════════ -->
-
-## 📋 Professional Experience
-
-<!-- ··· MOTIVEMINDS ··· -->
-<details open>
-<summary>
-  <b>🟢 Senior Software Engineer — Motiveminds Consulting Pvt Ltd</b>
-  <br />
-  <sub>Jul 2025 – Present · Remote · Bengaluru, India</sub>
-</summary>
-
+**Senior Software Engineer** · Motiveminds Consulting
+<br /><sub>Enterprise GenAI & Agentic Workflow Systems · Bengaluru, India</sub>
 <br />
+<img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-4B32C3?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
 
-> Building enterprise GenAI and agentic workflow systems that automate business logic across legacy enterprise systems.
+</td>
+</tr>
+<tr><td colspan="3"><hr /></td></tr>
+<tr>
+<td width="15%" align="center"><b>Jan–Jul 2025</b></td>
+<td width="5%">🔵</td>
+<td>
 
-- Lead design and delivery of **LLM-powered workflows** for enterprise automation
-- Build **agentic workflows** with tool calling and multi-step execution
-- Develop **RAG-based knowledge assistants** for internal information retrieval
-- Integrate GenAI services through **Python/FastAPI APIs**
-- Optimize systems for **latency, reliability, throughput**, and production readiness
-- Collaborate with product and engineering teams to convert business needs into deployable AI systems
-
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector_DBs-6B7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-</details>
-
-<!-- ··· W3 SAAS ··· -->
-<details>
-<summary>
-  <b>🔵 Software Engineer — W3 SaaS Technologies Ltd.</b>
-  <br />
-  <sub>Jan 2025 – Jul 2025 · Remote · Dubai International Financial Centre</sub>
-</summary>
-
+**Software Engineer** · W3 SaaS Technologies
+<br /><sub>GenAI Product Workflows & GTM Automation · Dubai International Financial Centre</sub>
 <br />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Clay-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_APIs-4B5563?style=flat-square" />
 
-> Built GenAI-powered product workflows and GTM automation systems for a SaaS platform.
+</td>
+</tr>
+<tr><td colspan="3"><hr /></td></tr>
+<tr>
+<td width="15%" align="center"><b>Jul–Dec 2024</b></td>
+<td width="5%">🟣</td>
+<td>
 
-- Engineered GenAI features for SaaS product workflows
-- Built automated **GTM pipelines** using Clay, n8n, and LLM APIs
-- Designed workflows for **lead research, enrichment, and qualification**
-- Delivered end-to-end systems from design to **Dockerized deployment**
-- Balanced cost, latency, reliability, and security for **financial workflows**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_APIs-4B5563?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clay-111827?style=flat-square" />
-</p>
-
-</details>
-
-<!-- ··· BLOCKCHAIN LABS ··· -->
-<details>
-<summary>
-  <b>🟣 GenAI Research Intern — Blockchain Laboratories</b>
-  <br />
-  <sub>Jul 2024 – Dec 2024 · Remote · Wyoming, United States</sub>
-</summary>
-
+**GenAI Research Intern** · Blockchain Laboratories
+<br /><sub>Multi-Agent Systems & RAG Pipelines Research · Wyoming, United States</sub>
 <br />
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/AutoGen-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-4B32C3?style=flat-square" />
 
-> Researched and prototyped multi-agent systems, RAG pipelines, and agent orchestration patterns.
+</td>
+</tr>
+<tr><td colspan="3"><hr /></td></tr>
+<tr>
+<td width="15%" align="center"><b>Apr–Aug 2024</b></td>
+<td width="5%">🟠</td>
+<td>
 
-- Developed **multi-agent prototypes** using LangChain, LangFlow, CrewAI, and AutoGen
-- Built **RAG systems** backed by vector databases
-- Explored **tool use, planning, memory**, and workflow orchestration
-- Researched hallucination-control patterns and **retrieval grounding**
-- Documented orchestration failure modes and **self-correcting workflow patterns**
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=flat-square" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/AutoGen-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector_DBs-6B7280?style=flat-square" />
-</p>
-
-</details>
-
-<!-- ··· HYDERABAD FOREX ··· -->
-<details>
-<summary>
-  <b>🟠 Full Stack Automation Engineer — Hyderabad Forex Limited</b>
-  <br />
-  <sub>Apr 2024 – Aug 2024 · Remote · Hyderabad, India</sub>
-</summary>
-
+**Full Stack Automation Engineer** · Hyderabad Forex Limited
+<br /><sub>Document Automation & Financial Workflow Systems · Hyderabad, India</sub>
 <br />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OCR-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/MERN-374151?style=flat-square" />
 
-> Built backend and automation systems for document-heavy financial workflows.
-
-- Built **OCR and computer vision pipelines** for document digitization
-- **Reduced manual data entry by 40%**
-- **Improved onboarding turnaround time by 30%**
-- Developed **FastAPI-based REST APIs** for transaction and customer data
-- Supported workflow modernization in a regulated financial environment
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-1F2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/MERN-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_APIs-4B5563?style=flat-square" />
-</p>
-
-</details>
-
-<!-- ··· NINE EDUCATION ··· -->
-<details>
-<summary>
-  <b>🟡 Product Automation Developer — Nine Education IIT Academy</b>
-  <br />
-  <sub>Oct 2023 – Aug 2024 · Remote · Hyderabad, India</sub>
-</summary>
-
-<br />
-
-> Built internal tools, dashboards, and workflow automations for education operations.
-
-- Built student data, fee management, and assessment workflows
-- Automated administrative processes
-- Designed **analytics dashboards** for academic decision-making
-- Shipped internal tools using React, Flask, MongoDB, Figma, and Framer
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
-</details>
+</td>
+</tr>
+</table>
+</div>
 
 <br />
 
@@ -724,20 +555,20 @@ I build systems that help teams:
 
 <!-- ═══════════════════════ HOW I WORK ═══════════════════════ -->
 
+<div align="center">
+
 ## ⚙️ How I Work
 
-<div align="center">
+<br />
 
 ```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│  1. UNDERSTAND   │────▶│  2. DEFINE       │────▶│  3. BUILD       │────▶│  4. SHIP         │────▶│  5. IMPROVE      │
-│                  │     │                  │     │                  │     │                  │     │                  │
-│  Map the current │     │  Identify what   │     │  Python, FastAPI │     │  Focus on        │     │  Iterate based   │
-│  business process│     │  can be automated│     │  LLM APIs, n8n  │     │  reliability,    │     │  on data quality │
-│  bottlenecks,    │     │  what needs human│     │  Clay, HubSpot  │     │  latency, error  │     │  GTM feedback,   │
-│  data sources,   │     │  approval, and   │     │  scrapers, and  │     │  handling, cost, │     │  workflow        │
-│  dependencies    │     │  what stays manual│     │  databases      │     │  observability   │     │  failures        │
-└─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘
+  1. UNDERSTAND        2. DEFINE           3. BUILD            4. SHIP             5. IMPROVE
+┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+│  Map the     │───▶│  Identify    │───▶│  Python ·    │───▶│  Reliability │───▶│  Iterate on  │
+│  business    │    │  automation  │    │  FastAPI ·   │    │  Latency ·   │    │  data, GTM   │
+│  process &   │    │  vs human    │    │  LLMs · n8n  │    │  Error       │    │  feedback &  │
+│  bottlenecks │    │  touch points│    │  Clay · DBs  │    │  handling    │    │  failures    │
+└──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘
 ```
 
 </div>
@@ -746,63 +577,30 @@ I build systems that help teams:
 
 ---
 
-<!-- ═══════════════════════ WHAT MAKES ME DIFFERENT ═══════════════════════ -->
-
-## 💎 What Makes Me Different
+<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
 
 <div align="center">
-
-| Most People Can... | My Edge Is the Combination |
-|:---|:---|
-| Build LLM demos | ✅ CS foundation **+** GenAI engineering |
-| Understand GTM workflows | ✅ GTM workflow understanding **+** production backend APIs |
-| Connect tools together | ✅ Scraping & enrichment **+** CRM integrations |
-
-</div>
-
-> **That means I can understand what GTM and RevOps teams want, communicate it clearly to technical teams, and build the system end-to-end.**
-
-```
-Computer Science Foundation
-  + GenAI Engineering
-    + GTM Workflow Understanding
-      + RevOps Automation
-        + Scraping & Enrichment
-          + CRM Integrations
-            + Production Backend APIs
-              = Full-Stack Applied AI Engineer for GTM & RevOps
-```
-
-<br />
-
----
-
-<!-- ═══════════════════════ EDUCATION & CERTS ═══════════════════════ -->
 
 ## 🎓 Education & Certifications
 
-<table>
+<br />
+
+<table width="80%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### Education
-
-🎓 **Bachelor of Engineering — Computer Science**
+🎓 **B.E. — Computer Science**
 <br />
 JSS Science and Technology University
 <br />
-2020 – 2024
+<sub>2020 – 2024</sub>
 
 </td>
-<td width="50%" valign="top">
-
-### Certifications & Learning
+<td align="center" width="50%">
 
 📜 LangChain: Chat with Your Data
 <br />
 📜 Introduction to Generative AI
-<br />
-📜 Generative AI for Everyone
 <br />
 📜 Multi-Agent Systems with CrewAI
 <br />
@@ -812,46 +610,6 @@ JSS Science and Technology University
 </tr>
 </table>
 
-<br />
-
----
-
-<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
-
-## 🔭 Current Focus
-
-<div align="center">
-
-| Area | Focus |
-|:---:|:---|
-| 🎯 | GTM AI Systems & AI-Powered Lead Intelligence |
-| ⚙️ | RevOps Automation — HubSpot & Clay Workflows |
-| 🤖 | Agentic AI for Business Workflows |
-| 📚 | RAG Systems for Internal Knowledge |
-| 🚀 | Production GenAI APIs |
-| 🏗️ | Forward-Deployed AI Implementation |
-
-</div>
-
-<br />
-
----
-
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssbaraar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B71F3&icon_color=3B71F3&text_color=C9D1D9" width="420" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssbaraar&theme=tokyonight&hide_border=true&background=0D1117&ring=3B71F3&fire=3B71F3&currStreakLabel=3B71F3" width="420" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ssbaraar&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B71F3&line=3B71F3&point=FFFFFF" width="100%" />
-  </a>
 </div>
 
 <br />
@@ -860,11 +618,9 @@ JSS Science and Technology University
 
 <!-- ═══════════════════════ RECRUITER KEYWORDS ═══════════════════════ -->
 
-## 🔍 Recruiter Search Keywords
-
 <div align="center">
 
-`Applied AI Engineer` · `GTM AI Engineer` · `Forward Deployed AI Engineer` · `AI Automation Engineer` · `RevOps Automation Engineer` · `AI Solutions Engineer` · `Growth Engineer` · `GenAI Engineer` · `AI Agents` · `Agentic AI` · `RAG Engineer` · `LangChain` · `LangGraph` · `FastAPI` · `Python` · `HubSpot Automation` · `Clay Automation` · `n8n Automation` · `Lead Enrichment` · `GTM Automation` · `RevOps Automation` · `Sales Intelligence` · `CRM Automation` · `Web Scraping` · `LLM APIs` · `Vector Databases` · `Docker`
+`Applied AI Engineer` · `GTM AI Engineer` · `Forward Deployed AI Engineer` · `AI Automation Engineer` · `RevOps Automation Engineer` · `AI Solutions Engineer` · `GenAI Engineer` · `AI Agents` · `RAG Engineer` · `LangChain` · `LangGraph` · `FastAPI` · `Python` · `HubSpot Automation` · `Clay Automation` · `n8n` · `Lead Enrichment` · `GTM Automation` · `Sales Intelligence` · `Vector Databases` · `Docker`
 
 </div>
 
@@ -874,11 +630,13 @@ JSS Science and Technology University
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-I'm open to conversations around **Applied AI Engineering, GTM AI, RevOps Automation, Forward Deployed AI, GenAI Agents, RAG Systems, Lead Intelligence**, and **HubSpot/Clay Automation**.
+## 🤝 Let's Connect
+
+<br />
+
+**Open to conversations around Applied AI Engineering, GTM AI, RevOps Automation, GenAI Agents & RAG Systems.**
 
 <br />
 
@@ -894,14 +652,6 @@ I'm open to conversations around **Applied AI Engineering, GTM AI, RevOps Automa
 
 <br /><br />
 
----
-
-<br />
-
-**Applied AI Engineer** building **GTM AI, RevOps Automation, Lead Intelligence, GenAI Agents**, and **Production RAG Systems.**
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&fontColor=FFFFFF" width="100%" />
 
 </div>

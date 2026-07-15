@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Baraar Sreesha Sreenivas — AI Agent &amp; Applied AI Engineer</title>
+  <desc id="desc">Agentic pipelines, RAG systems, and GTM/RevOps automation shipped to production.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#141414" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="400" rx="28" fill="#fcfbf7"/>
+  <rect width="1200" height="400" rx="28" fill="url(#grid)"/>
+  <circle cx="1110" cy="60" r="130" fill="#a4d4c5" fill-opacity=".35"/>
+  <circle cx="1040" cy="360" r="150" fill="#b8a4ed" fill-opacity=".22"/>
+
+  <g transform="translate(64 54)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="0" y="14" fill="#6b6b6b" font-size="14" font-weight="700" letter-spacing="3">APPLIED AI ENGINEER · BENGALURU &#8594; REMOTE</text>
+    <rect x="0" y="30" width="56" height="6" rx="3" fill="#ff6b5a"/>
+    <text x="0" y="128" fill="#141414" font-size="72" font-weight="800" letter-spacing="-3">Baraar Sreesha</text>
+    <text x="0" y="196" fill="#ff6b5a" font-size="52" font-weight="500" font-style="italic" font-family="Georgia,'Times New Roman',serif" letter-spacing="-1">Applied AI Engineer</text>
+    <text x="0" y="248" fill="#3a3a3a" font-size="21" font-weight="500">Agentic pipelines, RAG systems, and GTM/RevOps automation &#8212;</text>
+    <text x="0" y="278" fill="#3a3a3a" font-size="21" font-weight="500">forward-deployed. Shipped to production, not demos.</text>
+    <text x="0" y="322" fill="#6b6b6b" font-size="14" font-weight="600" letter-spacing="1.4">LANGGRAPH · CREWAI · RAG · CLAY · N8N · HUBSPOT · FASTAPI</text>
+  </g>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <g transform="translate(792 56) rotate(4 148 96)">
+      <rect x="8" y="10" width="296" height="150" rx="20" fill="#141414" fill-opacity=".12"/>
+      <rect width="296" height="150" rx="20" fill="#a4d4c5"/>
+      <text x="22" y="34" fill="#0a1a1a" font-size="14" font-weight="800" letter-spacing="1">GTM LEAD INTELLIGENCE</text>
+      <text x="22" y="94" fill="#0a1a1a" font-size="34" font-weight="800">$2k/mo &#8594; 0</text>
+      <text x="22" y="122" fill="#0a1a1a" font-size="13" font-weight="600" opacity=".75">data subscriptions killed</text>
+    </g>
+    <g transform="translate(724 196) rotate(-5 140 90)">
+      <rect x="8" y="10" width="280" height="140" rx="20" fill="#141414" fill-opacity=".12"/>
+      <rect width="280" height="140" rx="20" fill="#b8a4ed"/>
+      <text x="22" y="34" fill="#1c1230" font-size="14" font-weight="800" letter-spacing="1">ENTERPRISE RAG</text>
+      <text x="22" y="88" fill="#1c1230" font-size="34" font-weight="800">100% cited</text>
+      <text x="22" y="114" fill="#1c1230" font-size="13" font-weight="600" opacity=".75">across 500+ employee org</text>
+    </g>
+    <g transform="translate(930 300) rotate(6 118 62)">
+      <rect x="7" y="9" width="236" height="112" rx="18" fill="#141414" fill-opacity=".12"/>
+      <rect width="236" height="112" rx="18" fill="#ffb084"/>
+      <text x="20" y="32" fill="#3a1c0a" font-size="13" font-weight="800" letter-spacing="1">OUTBOUND CAPACITY</text>
+      <text x="20" y="78" fill="#3a1c0a" font-size="28" font-weight="800">10 &#8594; 50+/wk</text>
+    </g>
+  </g>
+</svg>
